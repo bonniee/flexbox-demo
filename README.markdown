@@ -1,3 +1,7 @@
+# Flexbox demo
+
+This is a fork of Spectacle, the ReactJS presentation lib. Flexbox demo created for use @ Codecademy.
+
 #Spectacle
 ReactJS based Presentation Library
 
