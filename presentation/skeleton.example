@@ -1,0 +1,9 @@
+  <div className="skeletonContainer" style={s}>
+    <div className="one" style={sOne}>
+      <div className="oneA" style={inner}>div oneA</div>
+      <div className="oneB" style={inner}>div oneB</div>
+    </div>
+    <div className="two" style={sOne}>
+      <div className="twoA" style={inner}>div twoA</div>
+    </div>
+  </div>
